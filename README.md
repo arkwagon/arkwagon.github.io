@@ -6,7 +6,10 @@
 
 ## Description
 
-_I created a site for SpaceTrips... a mock space travel company using html, bootstrap, and custom css.  NOTE: When I logged into the epicenter for code review it took me [here](http://epicenter.epicodus.com/code_reviews/139). I did not see that we were supposed to create a portfolio site until 3pm. It would be great if we could all have a little meeting on Friday morning to make sure we're all headed in the right direction. I continued on with my SpaceTrips site in order to meet the review requirements. I will build the portfolio site on my own time I guess._
+_I created a site for SpaceTrips... a mock space travel company using html, bootstrap, and css.  NOTE: When I logged into the epicenter for code review it took me [here](http://epicenter.epicodus.com/code_reviews/139). I did not see that we were supposed to create a portfolio site until 3pm. It would be great if we could all have a little meeting on Friday morning to make sure we're all headed in the right direction. I continued on with my SpaceTrips site in order to meet the review requirements. I will build the portfolio site on my own time I guess._
+
+## Site Link
+_[SpaceTrips](http://arkwagon.github.io)_
 
 ## Known Bugs
 
